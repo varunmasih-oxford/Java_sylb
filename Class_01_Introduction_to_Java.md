@@ -36,17 +36,17 @@ Java is a **high-level, object-oriented programming language** used to create:
 
 ## Advantages of Java
 
-✔ Easy to Learn
+ Easy to Learn
 
-✔ Platform Independent
+ Platform Independent
 
-✔ Secure
+ Secure
 
-✔ Object-Oriented
+ Object-Oriented
 
-✔ Large Community Support
+ Large Community Support
 
-✔ High Demand in Industry
+ High Demand in Industry
 
 ---
 
