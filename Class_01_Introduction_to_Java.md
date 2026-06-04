@@ -137,6 +137,24 @@ public class Main {
 }
 ```
 
+
+## Compile the Program
+
+Type:
+
+```bash
+javac Main.java
+```
+
+## Run the Program
+
+Type:
+
+```bash
+java Main
+```
+
+
 ### Output
 
 ```text
